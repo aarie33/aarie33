@@ -11,14 +11,13 @@ I am a Fullstack developer from Indonesia. <br><br>
 
 <br/>
 
-## Things I code with
+## Things I work with
 **Frontend** <br/>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-F73C01?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="PWA" src="https://img.shields.io/badge/-PWA-550FBE?style=flat-square&logo=pwa&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7711EE?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-35B4ED?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-1B72B7?style=flat-square&logo=webpack&logoColor=white" />
@@ -47,6 +46,7 @@ I am a Fullstack developer from Indonesia. <br><br>
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-40A0EF?style=flat-square&logo=flutter&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-E41F23?style=flat-square&logo=java&logoColor=white" />
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-D93E6C?style=flat-square&logo=kotlin&logoColor=7C4FF7" />
+    <img alt="PWA" src="https://img.shields.io/badge/-PWA-550FBE?style=flat-square&logo=pwa&logoColor=white" />
 </p>
 
 **Others** <br/>
@@ -54,4 +54,9 @@ I am a Fullstack developer from Indonesia. <br><br>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-60317D?style=flat-square&logo=gitlab&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-1B73B7?style=flat-square&logo=trello&logoColor=white" />
+    <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-1D4EC2?style=flat-square&logo=sourcetree&logoColor=white" />
+    <img alt="VsCode" src="https://img.shields.io/badge/VsCode-3EA2E8?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    <img alt="Slack" src="https://img.shields.io/badge/Slack-471448?style=flat-square&logo=slack&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-9A55F2?style=flat-square&logo=figma&logoColor=white" />
 </p>
