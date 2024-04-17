@@ -12,6 +12,19 @@ I am a Fullstack developer from Indonesia. <br><br>
 <br/>
 
 # Things I work with
+## Backend
+<p>
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F82B1E?style=flat-square&logo=laravel&logoColor=white" />
+    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-E74022?style=flat-square&logo=codeigniter&logoColor=white" />
+</p>
+
+**Research only `(never used in a real project)`** <br/>
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+</p>
+
 ## Frontend
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -24,15 +37,8 @@ I am a Fullstack developer from Indonesia. <br><br>
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-F73C01?style=flat-square&logo=svelte&logoColor=white" />
 </p>
 
-## Backend
-<p>
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F82B1E?style=flat-square&logo=laravel&logoColor=white" />
-    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-    <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-E74022?style=flat-square&logo=codeigniter&logoColor=white" />
-</p>
-
 ## Mobile
-Actually, I only focus on `web development`, but yeah I have an experience in `mobile development`.
+Actually, I only focus on `web development`. But yeah I have an experience in `mobile development`.
 <p>
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-40A0EF?style=flat-square&logo=flutter&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-E41F23?style=flat-square&logo=openjdk&logoColor=white" />
